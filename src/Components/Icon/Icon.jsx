@@ -3,7 +3,7 @@ import RecommendRoundedIcon from "@mui/icons-material/RecommendRounded";
 import RemoveRedEyeIcon from "@mui/icons-material/RemoveRedEye";
 import FavoriteIcon from "@mui/icons-material/Favorite";
 import StarsRoundedIcon from "@mui/icons-material/StarsRounded";
-import "./Icon.css";
+import "./icon.css";
 function Icon() {
   return (
     <div className="icon">
