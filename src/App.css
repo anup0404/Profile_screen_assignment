@@ -1,0 +1,26 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.total_count {
+  width: 80px;
+  padding: 10px;
+  color: rgb(67, 110, 189);
+  font-weight: 800;
+  margin-left: 1.8%;
+
+  border-top: 0.5px solid gray;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+@media screen and(max-width:450px) {
+  .total_count {
+    margin-left: 20px;
+  }
+}
+@media screen and (max-width: 350px) {
+  .total_count {
+    margin-bottom: -3px;
+  }
+}

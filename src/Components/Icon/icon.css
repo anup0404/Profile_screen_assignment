@@ -1,0 +1,14 @@
+.icon {
+  display: flex;
+  align-items: center;
+  margin-left: 8%;
+ 
+  width: 80%;
+}
+
+p {
+  font-size: 0.8rem;
+  margin: 0px;
+  padding: 1rem;
+}
+

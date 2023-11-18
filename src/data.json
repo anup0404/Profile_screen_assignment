@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "post_heading": "A Changing World Order",
+    "post_body": {
+      "body": "The world is changing at a feverish pace. Friends,Colleagues and everyOne engaged in knowledge work are beginning to sense this, including...",
+      "p1": "...",
+      "p2": "...",
+      "p3": "..."
+    },
+    "footer_left": "musing",
+    "date": "August 2",
+    "time": 2,
+    "view": 102
+  },
+  {
+    "id": 2,
+    "post_heading": "Indian v/s Australia",
+    "post_body": {
+      "body": "Think about it- this cricket series was akin to therapy. ",
+      "p1": "Laying our childhood  trauma up top,working with it slow;y and surely over two m...",
+      "p2": "...",
+      "p3": "..."
+    },
+    "footer_left": "thought",
+    "date": "January 21",
+    "time": 1,
+    "view": 156
+  },
+  {
+    "id": 3,
+    "post_heading": "Write To Build",
+    "post_body": {
+      "body": "Writing is the first step to create:",
+      "p1": "-stories",
+      "p2": "-product",
+      "p3": "-companies"
+    },
+    "footer_left": "thought",
+    "date": "Nov 18",
+    "time": 1,
+    "view": 228
+  }
+]
