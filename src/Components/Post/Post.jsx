@@ -19,13 +19,20 @@ function Post({ data }) {
             />
           </div>
           <p className="post_body">
-            {data.post_body.body}
+            {/* {data.post_body.body}
             <br />
             {data.post_body.p1}
             <br />
             {data.post_body.p2}
             <br />
-            {data.post_body.p3}
+            {data.post_body.p3} */}
+            {data.post_body?.map((item) => (
+              <>
+                {console.log(item)}
+                {item.body && <>{item.body}</>}<br/>
+                {item.point && <>{item.point}</>}
+              </>
+            ))}
           </p>
           <div className="footer">
             <div className="left">
