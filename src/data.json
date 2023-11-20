@@ -2,12 +2,11 @@
   {
     "id": 1,
     "post_heading": "A Changing World Order",
-    "post_body": {
-      "body": "The world is changing at a feverish pace. Friends,Colleagues and everyOne engaged in knowledge work are beginning to sense this, including...",
-      "p1": "...",
-      "p2": "...",
-      "p3": "..."
-    },
+    "post_body": [
+      {
+        "body": "The world is changing at a feverish pace. Friends,Colleagues and everyOne engaged in knowledge work are beginning to sense this, including..."
+      }
+    ],
     "footer_left": "musing",
     "date": "August 2",
     "time": 2,
@@ -16,12 +15,12 @@
   {
     "id": 2,
     "post_heading": "Indian v/s Australia",
-    "post_body": {
-      "body": "Think about it- this cricket series was akin to therapy. ",
-      "p1": "Laying our childhood  trauma up top,working with it slow;y and surely over two m...",
-      "p2": "...",
-      "p3": "..."
-    },
+    "post_body": [
+      { "body": "Think about it- this cricket series was akin to therapy. " },
+      {
+        "point": "Laying our childhood  trauma up top,working with it slow;y and surely over two m..."
+      }
+    ],
     "footer_left": "thought",
     "date": "January 21",
     "time": 1,
@@ -30,12 +29,12 @@
   {
     "id": 3,
     "post_heading": "Write To Build",
-    "post_body": {
-      "body": "Writing is the first step to create:",
-      "p1": "-stories",
-      "p2": "-product",
-      "p3": "-companies"
-    },
+    "post_body": [
+      { "body": "Writing is the first step to create:" },
+      { "point": "-stories" },
+      { "point": "-product" },
+      { "point": "-companies" }
+    ],
     "footer_left": "thought",
     "date": "Nov 18",
     "time": 1,
