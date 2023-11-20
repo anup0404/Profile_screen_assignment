@@ -5,7 +5,7 @@
 
 # Live Link: 🔗
 
-https://profile-screen.netlify.app/
+[(ctrl+link)] (https://profile-screen-assignment.vercel.app/)
 
 # About the assignment 📚
 
