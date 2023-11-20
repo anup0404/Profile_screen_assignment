@@ -27,11 +27,11 @@ function Post({ data }) {
             <br />
             {data.post_body.p3} */}
             {data.post_body?.map((item) => (
-              <>
-                {console.log(item)}
-                {item.body && <>{item.body}</>}<br/>
+              <span key={item.idx}>
+                {item.body && <>{item.body}</>}
+                <br />
                 {item.point && <>{item.point}</>}
-              </>
+              </span>
             ))}
           </p>
           <div className="footer">
